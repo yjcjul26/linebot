@@ -16,6 +16,8 @@
 
 - 擁有 Line 帳號
 - 擁有 [Heroku](https://www.heroku.com) 帳戶（您可以免費創建一個）
+- 建立provider
+- Create messengerAPI
 
 ## 建立 Heroku 專案
 1. 登入 Heroku 後，
